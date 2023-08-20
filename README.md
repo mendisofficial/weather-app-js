@@ -2,6 +2,10 @@
 
 A simple weather app that allows users to search for weather information by city name. The app displays temperature, humidity, wind speed, and an appropriate weather icon based on the retrieved data.
 
+## Demo
+
+Check out the live demo of the Weather App: [https://mendisofficial.github.io/weather-app-js](https://mendisofficial.github.io/weather-app-js)
+
 ## Features
 
 - Search for weather information by entering a city name.
