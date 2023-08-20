@@ -1,16 +1,38 @@
 # weather-app-js
 
-Task 7: Fine-Tuning and Refactoring
-Refactor code to improve readability and maintainability.
-Add comments to explain code blocks.
-Test the weather app with various city names.
-Make sure the app responds correctly to valid and invalid city names.
-Test the responsiveness of the app on different devices.
+A simple weather app that allows users to search for weather information by city name. The app displays temperature, humidity, wind speed, and an appropriate weather icon based on the retrieved data.
 
-Task 8: Final Review and Documentation
-Review the entire codebase for any issues or bugs.
-Verify that the weather data is displayed accurately.
-Ensure that the styling and layout are consistent and visually appealing.
-Update the README.md file with a brief description of the project.
-Consider adding a section explaining how to set up the project locally.
-Prepare the public repository for submission.
+## Features
+
+- Search for weather information by entering a city name.
+- Display of temperature, humidity, wind speed, and weather icon.
+- Error message display for invalid city names.
+- Responsive design for various screen sizes.
+
+## Usage
+
+1. Enter a valid city name in the search input.
+2. Click the search button to retrieve weather information.
+3. If the city name is valid, weather information will be displayed.
+4. If the city name is invalid, an error message will be shown.
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## To-Do
+
+Here are some potential improvements you could consider adding to the project:
+
+- Implement input validation for the city name.
+- Add a loading indicator while fetching data from the API.
+- Allow users to switch between different units of measurement.
+- Store the last searched city in local storage for better user experience.
+- Improve error handling for network issues or other API errors.
+- Organize code into smaller functions for better maintainability.
+- Enhance the visual design and user interface.
+- Add more weather condition icons for a wider range of weather types.
+
+Feel free to tackle any of these improvements and contribute to the project!
