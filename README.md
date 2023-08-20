@@ -1,10 +1,5 @@
 # weather-app-js
 
-Task 4: Update Weather Icon and Data
-Determine the weather conditions from the fetched data.
-Update the weather icon based on weather conditions.
-Display temperature, city name, humidity, and wind speed from the fetched data.
-
 Task 5: Handling User Input
 Select the search input and search button using JavaScript.
 Attach a click event listener to the search button.
