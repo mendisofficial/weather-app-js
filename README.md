@@ -1,11 +1,5 @@
 # weather-app-js
 
-Task 3: Display Weather Information
-Add placeholders and labels to the input field and search button.
-Create a weather display area with placeholders for weather icon, temperature, city name, humidity, and wind speed.
-Hide the weather display area by default using CSS.
-Set up an async function to fetch weather data using the OpenWeatherMap API.
-
 Task 4: Update Weather Icon and Data
 Determine the weather conditions from the fetched data.
 Update the weather icon based on weather conditions.
