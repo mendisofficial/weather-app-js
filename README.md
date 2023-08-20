@@ -1,11 +1,5 @@
 # weather-app-js
 
-Task 2: Styling the Search Box
-Add CSS rules to style the card containing the search box.
-Style the input field and the search button.
-Align the input field and search button horizontally.
-Apply CSS properties to make the card visually appealing.
-
 Task 3: Display Weather Information
 Add placeholders and labels to the input field and search button.
 Create a weather display area with placeholders for weather icon, temperature, city name, humidity, and wind speed.
