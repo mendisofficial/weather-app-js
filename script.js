@@ -9,8 +9,8 @@ const weatherIcon = document.querySelector(".weather-icon");
 async function checkWeather(city){
     const response = await fetch(apiUrl + city + `&appid=${apiKey}`);
     if(response.status == 404){
-        document.querySelector(".error").style.dispaly = "block";
-        document.querySelector(".error").style.dispaly = "none";
+        document.querySelector(".error").style.display = "block";
+        document.querySelector(".weather").style.display = "none";
     }else{
         let data = await response.json();
 
@@ -31,8 +31,8 @@ async function checkWeather(city){
             weatherIcon.src = "images/mist.png"
         }
 
-        document.querySelector(".error").style.dispaly = "none";
-        document.querySelector(".weather").style.dispaly = "block";
+        document.querySelector(".error").style.display = "none";
+        document.querySelector(".weather").style.display = "block";
     }
 }
 

@@ -1,10 +1,5 @@
 # weather-app-js
 
-Task 6: Display Error Messages
-Check the response status code after fetching weather data.
-If the status code is 404, display an "Invalid city name" error message.
-Hide the weather display area and clear any previous data.
-
 Task 7: Fine-Tuning and Refactoring
 Refactor code to improve readability and maintainability.
 Add comments to explain code blocks.
