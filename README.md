@@ -1,11 +1,5 @@
 # weather-app-js
 
-Task 5: Handling User Input
-Select the search input and search button using JavaScript.
-Attach a click event listener to the search button.
-Extract the city name entered by the user.
-Call the async function with the entered city name as an argument.
-
 Task 6: Display Error Messages
 Check the response status code after fetching weather data.
 If the status code is 404, display an "Invalid city name" error message.
