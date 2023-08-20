@@ -1,13 +1,5 @@
 # weather-app-js
 
-Task 1: Setup and Basic HTML Structure
-Create a new project folder. 55
-Add an HTML file and name it index.html. 55
-Create the basic HTML structure within index.html. 55
-Link the CSS file and the icons to the HTML file. 55
-Set up a search box with an input field and a search button.
-Apply basic CSS styling to the search box.
-
 Task 2: Styling the Search Box
 Add CSS rules to style the card containing the search box.
 Style the input field and the search button.
